@@ -1,0 +1,26 @@
+<html>
+
+<p>DNI = PAR:A  IMPAR:B</P>
+<select name=DNI PAR A IMPAR B>
+<option>A</option>
+<option>B</option>
+</select>
+<body>
+
+<p>Steve Jobs</p>
+
+<blockquote cite="https://es.wikipedia.org/wiki/Steve_Jobs">
+Steven Paul Jobs  fue un empresario, diseñador industrial, magnate empresarial, propietario de medios e inversor estadounidense. Fue cofundador y presidente ejecutivo de Apple y máximo accionista individual de The Walt Disney Company.
+
+Fundó Apple en 1976 junto con un amigo de la adolescencia, Steve Wozniak, con ayuda del excompañero de Jobs en Atari, Ronald Wayne, en el garaje de su casa.
+Su reacción fue innovar, o mejor dicho, implementar: a principios de 1984 su compañía lanzaba el Macintosh 128K, que fue el primer ordenador personal que se comercializó exitosamente que usaba una interfaz gráfica de usuario (GUI) y un ratón en vez de la línea de comandos.
+
+</blockquote>
+<p> The <abbr tittle=" Hypertext Transfer Protoco">HTTP</abbr> fue fundada en 1999,</p>
+
+<p> Es el protocolo de comunicación que permite las transferencias de información a través de archivos (XML, HTML…) en la World Wide Web.</p>
+
+
+</body>
+</html>
+

@@ -1,0 +1,10 @@
+<html>
+
+<p>DNI = PAR:A  IMPAR:B</P>
+<select name=DNI PAR A IMPAR B>
+<option>A</option>
+<option>B</option>
+</select>
+<body>
+<h1 style="background-color:#ff6347;">Ola Mundo</h1>
+<h1 style="background-color:rgb(255, 99, 71);"> Adios Mundo</h1>

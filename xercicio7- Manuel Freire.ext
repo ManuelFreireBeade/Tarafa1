@@ -1,0 +1,92 @@
+Instruccións.
+* Cada exercicio vale un punto.
+* Chámalle a cada ficheiro x-nome-apelido.ext onde:
+** x é o número de exercicio 
+** nome-apelido é o teu nome e primeiro apelido
+** ext é a extensión: html ou pdf, dependendo do que se pida
+* sube os documentos o teu github. Podes crear todo dentro dun proxecto html, nun cartafol chamado tarefa1
+* entrega na tarefa do moodle:
+** o enlace o teu github
+** o enlace o teu espazo de w3spaces
+** unha táboa na que indiques:
+*** na primeira columna o número de exercicio
+*** na segunda columna OK se foi completado
+*** na terceira columna Observacións se é preciso indicar algo.
+
+1. Escribe un documento HTML
+a) cunha etiqueta h1 que diga "Benvido!" 
+b) un parágrafo que diga "Son: X", onde x e o teu nome, e se amosa unha liña máis abaixo 
+c) cunha etiqueta h6 que diga "Estou comprobando que este texto é mais pequeno porque é menos importante"
+
+Referencias:
+https://www.w3schools.com/html/html_basic.asp 
+https://www.w3schools.com/html/html_elements.asp
+https://www.w3schools.com/html/html_headings.asp
+https://www.w3schools.com/html/html_paragraphs.asp
+
+2. Escibe un documento HTML que
+a) Define que a súa linguaxe está en castelán/galego/inglés, conforme elabores ti o documento
+b) Teña un texto que diga Google e en enlace a www.google.es
+c) Amose unha imaxe da túa elección que enlace mediante unha url relativa. Fixalle o ancho e largo que desexes en píxeles. Descríbea co atributo alt
+
+Referencias:
+https://www.w3schools.com/html/html_attributes.asp
+
+3. Escribe un documento HTML. Escolle a se o teu dni remata en número par e b se remata en impar:
+a) Un párrafo de cor azul, fonte verdana, e tamño 200%, alineado ó centro. Ese párrafo conterá o texto "x2 = x * x" onde o dous será un superíndice
+b) un encabezado h1 de cor vermella, fonte courier e tamaño 150%, alineado ó centro. Ese párrafo conterá o texto "H2O é auga" onde o dous será un subíndice
+ 
+Referencias:
+https://www.w3schools.com/html/html_styles.asp
+https://www.w3schools.com/html/html_formatting.asp
+
+4. Escribe un documento HTML. Escolle a se o teu dni remata en número par e b se remata en impar:
+a) Anota a cita da túa elección (Cervantes? Steve Jobs? A Wikipedia? coa etiqueta HTML axeitada. Engade un comentario html explicando o que fixeches.
+b) Define a abreviatura da tecnoloxía que desexes (HTTP? HTML? XML? coa etiqueta HTML axeitada. Engade un comentario html explicando o que fixeches.
+
+Referencias:
+https://www.w3schools.com/html/html_quotation_elements.asp
+https://www.w3schools.com/html/html_comments.asp
+
+5. Escribe un documento HTML. Escolle a se o teu dni remata en número par e b se remata en impar:
+a) Un texto "Ola Mundo" nun parágrafo bordeado de xeito sólido cunha cor definida con valores HEX
+b) Un texto "Adios Mundo" nun parágrafo bordeado con cor de fondo definida con valores RGB
+
+Referencias:
+https://www.w3schools.com/html/html_colors.asp
+
+6. Escribe un documento HTML. Escolle a se o teu dni remata en número par e b se remata en impar:
+a) ten unha imaxe dun can que enlaza a unha páxina de canciños (nunha fiestra nova). Tamén hai un texto cun enlace para enviar un correo a "nome@cans.com", onde nome é o teu nome 
+b) ten unha imaxe dun gato que enlaza a unha páxina de gatitos (nunha fiestra nova). Tamén hai un texto cun enlace para enviar un correo a "nome@cans.com", onde nome é o teu nome
+   
+https://www.w3schools.com/html/html_links.asp
+
+7. XHTML vs HTML. Entrega un documento en formato PDF no que expliques:
+a) Que é HTML e qué e XHTML? En que se diferencian (al menos catro diferencias?
+b) Aporta o código dun documento XHTML válido, e captura da correcta validación https://validator.w3.org/index.html
+c) Aporta o códugo dun documento que é valido en HTML pero inválido con HTML
+
+Referencias:
+https://validator.w3.org/index.html
+https://www.w3schools.com/html/html_xhtml.asp
+https://www.mclibre.org/consultar/htmlcss/html/html-xhtml-diferencias.html
+
+8. Le detenidamente e aporta a túa opinión e reflexión crítica nun documento PDF sobre o seguinte artigo:
+https://www.mclibre.org/consultar/htmlcss/otros/ampliaciones.html#variedades-html-xhtml
+
+9. Crea un repositorio e sube o código a github.
+Podes seguir estes apuntes:
+https://drive.google.com/file/d/1sHgKrrea1-HpityOEYqFLjRdaum85CnW/view?usp=sharing
+
+Pero de momento non é preciso que aprendas o funcionamento de git e podes subir os ficheiros pola interfaz gráfica da web.
+
+10. Crea unha conta gratuita aquí:
+https://spaces.w3schools.com/
+
+E sube dous ou tres documentos html o teo espazo.
+
+Cando xurden problemas...
+Tes dúbidas? Navega na documentación da wiki ou googlea.
+Liches a documentación e indagaches na web sen éxito? Outras dificultades xerais? Pregunta no foro! 
+Tes coñecementos? Amosaos respondendo no foro as dúbidas!
+Algúnha dúbida personal? Estou a túa disposición!

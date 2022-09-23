@@ -1,0 +1,23 @@
+<html>
+
+<p>DNI = PAR:A  IMPAR:B</P>
+<select name=DNI PAR A IMPAR B>
+<option>A</option>
+<option>B</option>
+</select>
+<body>
+<p>The image below is a link. Try to click on it.</p>
+<a href="https://www.muyinteresante.es/mascotas/fotos/impresionantes-curiosidades-sobre-perros-que-fuerte">
+<img src="https://estaticos.muyinteresante.es/uploads/images/gallery/59bbb29c5bafe878503c9872/husky-siberiano-redes.jpg" ></a>
+<p><a href="mailto:Manuel@cans.com">Send email</a></p>
+
+<p>The image below is a link. Try to click on it.</p>
+<a href="https://www.muyinteresante.es/mascotas/fotos/8-curiosidades-sobre-los-gatos-que-la-ciencia-ha-confirmado-871625132384"><img src="https://estaticos.muyinteresante.es/uploads/images/gallery/60dd8da05bafe884f4c6c56c/gato-slide.jpg"></a>
+<p><a href="mailto:Manuel@cans.com">Send email</a></p>
+
+
+
+
+</body>
+</html>
+
