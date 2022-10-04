@@ -1,0 +1,45 @@
+<html>
+<head>
+<title> Exercicio Listaxe </title>
+</head>
+<body>
+<h1> Liste Desordenada </h1>
+<ul>
+ <il> Cacao </il>
+ <il> Auga </il>
+ <il< Zumo </il>
+ 
+ </ul>
+
+
+<h1> Lista Ordenada </h1>
+<ol>
+  <il> Cacao </il>
+  <il> Auga </il>
+  <il> Zumo </il>
+  
+  </ol>
+  
+  <h1> Lista Mixta </h1>
+  
+ <ul style="list-style-type:circle;">
+<il> Café 
+   <ol> 
+   <il>So </il>
+   <il> Con Leite </il>
+         <ol type="a">
+            <il> Latte </il>
+			<il> Capuccino </il>
+			</ol>
+	<il> Auga </il>
+	<il> Leite </il>
+	
+<h1> Lista Definición </h1>
+<dl> 
+  <dt> Ninja </dt>
+  <dd> Persona moi silenciosa </dd>
+  <dt> Shuriken </dt>
+  <dd> Arma preferida dos ninjas </dd>
+  </dl>
+  </body>
+  </html>
